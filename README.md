@@ -139,4 +139,4 @@ An interactive dashboard with key features to enhance usability and understandin
 
 ## Conclusion
 
-The Road Accident Analytics Dashboard facilitates data-driven decision-making, enabling stakeholders to implement evidence-based decisions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and police officers alike.
+The Road Accident Analytics Dashboard facilitates data-driven decision-making, enabling stakeholders to implement evidence-based decisions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and police departments alike.
