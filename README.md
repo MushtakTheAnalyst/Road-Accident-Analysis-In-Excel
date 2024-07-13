@@ -58,6 +58,10 @@ The dataset can be found [here](https://docs.google.com/spreadsheets/d/1R_uaoZL1
  - Creating 2 new attributes 'Year' and 'Month' were added for logical and easy interpretation of dataset
 
 
+**Preview of a section of cleaned data sheet -**
+![Screenshot 2024-07-13 164434](https://github.com/user-attachments/assets/cf0d1965-bab9-48cb-9a83-4418a95f8f47)
+
+
 ## Data Processing
 
 Part of the requested KPIs by the client is to showcase the dashboard in monthly and yearly insight, but from our data, we only have an Accident_Date column with the full date for each data entry. Therefore, there is a need to create month and year columns to get the requested insight. The process of doing this is as follows;
@@ -67,6 +71,9 @@ Part of the requested KPIs by the client is to showcase the dashboard in monthly
 2. Use the Excel Text function to extract the month and year from the Accident_Date column.
  - =TEXT(B2, “mmm”) for the newly created ‘Month’ column
  - =TEXT(B2, “yyyy”) for the newly created ‘Year’ column
+
+
+![Screenshot 2024-07-13 134108](https://github.com/user-attachments/assets/c52d4855-3f72-4bbf-8048-94861f2a9978)
 
 
 ## Data Analysis
@@ -95,6 +102,10 @@ A dedicated ‘Data Analysis’ sheet was created for comprehensive data visuali
 - Primary KPIs: Doughnut charts were employed to visualize and represent primary KPIs. The charts were formatted for clarity, ensuring a clean and easily interpretable presentation.
 - Secondary KPIs: Different visualization tools, including Doughnut chart, Treemap, Line graph, and Bar chart, were utilized to convey insights from secondary KPIs.
 
+
+![Screenshot 2024-07-13 164038](https://github.com/user-attachments/assets/e9957059-0808-49cb-9999-981d9c88da7c)
+
+
   
 2. Dashboard:
 
@@ -103,6 +114,11 @@ An interactive dashboard with key features to enhance usability and understandin
 - The timeline button was integrated to visualize road accidents in 2021 and 2022 separately or collectively. This enables a more detailed examination of trends and patterns over each year.
 - Slicer functionality was incorporated into the dashboard, using Rural/Urban categorization as a filter. This allows users to view the dashboard based on specific KPIs and choose between Urban, Rural, or overall perspectives for a targeted analysis.
 - The dashboard is intricately linked with the ‘Data Analysis’ sheet, and providing seamless navigation to internet resources. This integration ensures easy mobility and quick access to related information. This can be interacted with with the use of icons on the left-hand side of the dashboard.
+
+
+**Final Dashboard:**
+![Screenshot 2024-07-13 164705](https://github.com/user-attachments/assets/9de6a973-9571-4bac-b27f-bc6a4ab24be3)
+
 
 
 ## Key Insights
