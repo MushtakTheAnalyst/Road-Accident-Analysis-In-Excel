@@ -1,12 +1,27 @@
-# ROAD ACCIDENT ANALYSIS
+# Road Accident Analysis
 Road accident analysis in the UK for 2021 and 2022 dashboard using microsoft excel
+
+
+## Table of Contents
+- [Project Description](#project-description)
+- [Project Goal](#project-goal)
+- [Project Requirement](#project-requirement)
+- [Stakeholders List](#stakeholders-list)
+- [Data Structure and Source](#data-structure-and-source)
+- [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+- [Data Processing](#data-processing)
+- [Data Analysis](#data-analysis)
+- [Visualization and Dashboard Overview](#visualization-and-dashboard-overview)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 
 
 ## Project Description
 Road safety is a significant concern impacting communities worldwide. In this project, I have developed a Road Accident Analytics Dashboard, a robust tool designed to analyze and visualize road accident data for the years 2021 and 2022. This Excel-based dashboard provides stakeholders with critical insights, enabling them to make data-driven decisions and promote safer roads.
 
 
-## Goal
+## Project Goal
 The goal of this project is to analyze traffic accident data and identify key trends and insights related to casualties. By doing so, the project aims to inform policy and decision-making related to road safety, and ultimately help reduce the number of casualties caused by accidents.
 
 
@@ -37,11 +52,9 @@ The goal of this Excel project is to develop a Road Accident Dashboard for the y
 - Media
 
 
-## Data Structure
+## Data Structure and Source
 The dataset is in Excel (.xlsx) format with 307,974 rows and 21 columns. It contains accident details with fields like accident_index (unique for every data entry recorded), accident date, location details, accident_severity, number_of_casualties, road_type, vehicle_type, and others.
 
-
-## Data Source
 The dataset can be found [here](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=115582851948476680193&rtpof=true&sd=true)
 
 
